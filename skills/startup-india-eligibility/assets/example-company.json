@@ -1,0 +1,36 @@
+{
+  "note": "Fictional company for illustration. Amounts in rupees; FY 2026-27 onwards are projections.",
+  "name": "Monsoon Ledger Labs Pvt Ltd",
+  "entity_type": "private-limited",
+  "incorporated": "2021-08-12",
+  "as_of": "2026-11-08",
+  "deep_tech": false,
+  "split_or_reconstructed": false,
+  "reused_plant_or_machinery": false,
+  "innovation": true,
+  "dpiit_recognised": true,
+  "imb_certificate": false,
+  "indian_promoters_pct": 82,
+  "other_government_support": 500000,
+  "foreign_investors": true,
+  "in_default": false,
+  "turnover": {
+    "2021-22": 640000,
+    "2022-23": 11000000,
+    "2023-24": 32000000,
+    "2024-25": 68000000,
+    "2025-26": 115000000
+  },
+  "profit": {
+    "2021-22": -4200000,
+    "2022-23": -9500000,
+    "2023-24": -6000000,
+    "2024-25": -1500000,
+    "2025-26": 2800000,
+    "2026-27": 9000000,
+    "2027-28": 18000000,
+    "2028-29": 30000000,
+    "2029-30": 42000000,
+    "2030-31": 50000000
+  }
+}

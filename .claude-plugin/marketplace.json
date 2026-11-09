@@ -1,0 +1,44 @@
+{
+  "name": "startupreader",
+  "owner": {
+    "name": "StartupReader"
+  },
+  "metadata": {
+    "description": "Free Claude skills for startup founders from startupreader.com",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "founder-skills",
+      "description": "8 skills for founders: term sheet review, cap table modeling, founder equity split, pitch deck review, due diligence prep, saas metrics analysis, investor update writing, startup india eligibility.",
+      "version": "1.0.0",
+      "author": {
+        "name": "StartupReader",
+        "url": "https://startupreader.com"
+      },
+      "homepage": "https://startupreader.com/claude-skills",
+      "repository": "https://github.com/startupreader/claude-skills",
+      "license": "MIT",
+      "keywords": [
+        "startup",
+        "founders",
+        "fundraising",
+        "term-sheet",
+        "cap-table",
+        "saas-metrics"
+      ],
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/term-sheet-review",
+        "./skills/cap-table-modeling",
+        "./skills/founder-equity-split",
+        "./skills/pitch-deck-review",
+        "./skills/due-diligence-prep",
+        "./skills/saas-metrics-analysis",
+        "./skills/investor-update-writing",
+        "./skills/startup-india-eligibility"
+      ]
+    }
+  ]
+}

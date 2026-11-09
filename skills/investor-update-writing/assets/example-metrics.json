@@ -1,0 +1,16 @@
+{
+  "company": "Acme Desk",
+  "currency": "$",
+  "period": "October 2026",
+  "previous_period": "September 2026",
+  "months_in_period": 1,
+  "kpis": [
+    { "name": "MRR", "unit": "money", "this": 4974, "last": 5025, "plan": 5300 },
+    { "name": "Paying customers", "unit": "count", "this": 26, "last": 25, "plan": 27 },
+    { "name": "Logo churn (monthly)", "unit": "percent", "this": 0.04, "last": 0.04 },
+    { "name": "Net revenue retention (monthly)", "unit": "percent", "this": 0.94, "last": 1.01 },
+    { "name": "Gross margin", "unit": "percent", "this": 0.80, "last": 0.79 }
+  ],
+  "cash": { "this": 90000, "last": 96000, "raised": 0 },
+  "operating": { "revenue": 5000, "expenses": 11000 }
+}

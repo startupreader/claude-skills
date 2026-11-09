@@ -1,0 +1,23 @@
+{
+  "company": "Fernhollow Labs (fictional)",
+  "currency": "USD",
+  "holders": [
+    { "name": "Asha (founder)", "shares": 4500000, "founder": true },
+    { "name": "Leo (founder)", "shares": 4500000, "founder": true },
+    { "name": "Granted options", "shares": 400000 }
+  ],
+  "unallocated_pool": 600000,
+  "instruments": [
+    { "name": "Advisor SAFE", "type": "post-money-safe", "amount": 100000, "mfn": true, "issued": "2024-09-01" },
+    { "name": "Angel SAFEs", "type": "post-money-safe", "amount": 750000, "cap": 7500000, "issued": "2025-02-01" },
+    { "name": "Accelerator SAFE", "type": "pre-money-safe", "amount": 150000, "cap": 6000000, "issued": "2025-04-01" },
+    { "name": "Bridge note", "type": "note", "amount": 500000, "cap": 8000000, "discount": 0.2, "interest_rate": 0.08, "issued": "2025-11-01", "maturity": "2027-11-01" }
+  ],
+  "round": {
+    "name": "Seed",
+    "pre_money": 16000000,
+    "raise": 4000000,
+    "pool_target": 0.10,
+    "closing": "2026-11-01"
+  }
+}

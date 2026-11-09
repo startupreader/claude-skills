@@ -1,0 +1,29 @@
+# Made-up example: the shared drive of Tealbrook Labs Private Limited,
+# a fictional Indian SaaS startup preparing for a seed round.
+# One file name or path per line. Only these names are read, never contents.
+Company/Certificate of Incorporation.pdf
+Company/MOA and AOA (amended 2024).pdf
+Company/Board minutes FY2024-25.pdf
+Company/Board resolution - ESOP pool.pdf
+Company/EGM special resolution - ESOP plan.pdf
+Company/Founders agreement.pdf
+Company/AOC-4 and MGT-7 FY2024-25.pdf
+Fundraising/Angel SHA 2024.pdf
+Fundraising/Angel SSA 2024.pdf
+Fundraising/Cap table v7.xlsx
+Fundraising/PAS-3 angel allotment.pdf
+Fundraising/Valuation report - angel round.pdf
+Fundraising/FC-GPR acknowledgement - angel round.pdf
+People/ESOP Plan 2024.pdf
+People/Employment agreement template.docx
+IP/IP assignment - Founder A.pdf
+IP/IP assignment - Founder B (unsigned).pdf
+IP/Trademark application - Tealbrook.pdf
+Contractors/Freelance design agreement.pdf
+Finance/Audited financials FY2024-25.pdf
+Finance/Bank statements Apr-Sep 2025.pdf
+Finance/MIS Sep 2025.xlsx
+Tax/GST returns FY2024-25.zip
+Tax/TDS returns Q1-Q2 FY2025-26.pdf
+Customers/MSA - pilot customer.pdf
+Misc/Pitch deck v12 draft.pdf
